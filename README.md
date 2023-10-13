@@ -67,7 +67,7 @@ Before starting you need to have [Git](https://git-scm.com) and [Node](https://n
 - Clone the project
 
 ```bash
-  git clone https://github.com/shivendradb/Chat-application-using-React-JS.git
+  git clone https://github.com/mahimajagetiya-123/Chat-application-using-React-JS.git
 ```
 
 - Go to the project directory
